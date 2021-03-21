@@ -10,6 +10,8 @@ Electron.js / Node.js / JS / HTML / CSS / Ae / Ps / Ai / FL Studio
 ## Projects
 ### Currently Working on Clip (https://github.com/po1ar/Clip)
 
+CVS Vaccine Bypass API (https://github.com/po1ar/CVS-Vaccine-API)
+
 Raspberry-Pi-Facial-Recognition-w-GUI (https://github.com/po1ar/Raspberry-Pi-Facial-Recognition-w-GUI)
 
 Website for NeptuneIO (http://www.neptuneio.tk/)
