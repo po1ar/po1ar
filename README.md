@@ -14,7 +14,7 @@ CVS Vaccine Bypass API (https://github.com/po1ar/CVS-Vaccine-API)
 
 Raspberry-Pi-Facial-Recognition-w-GUI (https://github.com/po1ar/Raspberry-Pi-Facial-Recognition-w-GUI)
 
-Period. Chrome Extension (https://github.com/po1ar/Period.)
+Period. Chrome Extension (https://github.com/po1ar/Period)
 
 Website for NeptuneIO (http://www.neptuneio.tk/)
 
