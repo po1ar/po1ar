@@ -20,7 +20,7 @@ Website for NeptuneIO (http://www.neptuneio.tk/)
 
 
 All of my GFX and UI designs
-<a href = 'https://discord.gg/9mpHMQjMc3'><img src='https://i.imgur.com/D5vyVzCl.png'  alt='fls' height='35'></a>
+<a href = 'https://discord.gg/9mpHMQjMc3'><img src='https://imgur.com/gallery/GcKyM93'  alt='fls' height='35'></a>
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=po1ar&show_icons=true&count_private=true&theme=tokyonight)
