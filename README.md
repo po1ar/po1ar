@@ -9,4 +9,4 @@ CVS Vaccine Bypass API (https://github.com/po1ar/CVS-Vaccine-API)
 
 Period. Chrome Extension (https://github.com/po1ar/Period)
 
-Stellar Analytics Website (https://stellaralgorithm.com)
+StellarAlgorithm (https://stellaralgorithm.com)
