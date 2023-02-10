@@ -8,5 +8,3 @@ Raspberry-Pi-Facial-Recognition-w-GUI (https://github.com/po1ar/Raspberry-Pi-Fac
 CVS Vaccine Bypass API (https://github.com/po1ar/CVS-Vaccine-API)
 
 Period. Chrome Extension (https://github.com/po1ar/Period)
-
-StellarAlgorithm (https://stellaralgorithm.com)
